@@ -1,8 +1,8 @@
 {
     "stopwatch": {
-        "elapsedTime": 5600,
+        "elapsedTime": 7350,
         "startedAt": 1615322278661,
-        "running": false
+        "running": true
     },
     "_persist": {
         "version": -1,
