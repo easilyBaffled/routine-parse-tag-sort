@@ -1,3 +1,3 @@
 {
-    "type": "stop"
+    "type": "persist/PERSIST"
 }
