@@ -1,3 +1,3 @@
 {
-    "type": "addTime"
+    "type": "stop"
 }
