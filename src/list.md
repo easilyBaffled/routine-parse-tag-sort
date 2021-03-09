@@ -2,8 +2,8 @@
     "type": "persist/REHYDRATE",
     "payload": {
         "stopwatch": {
-            "elapsedTime": 2950,
-            "startedAt": 1615321863731,
+            "elapsedTime": 0,
+            "startedAt": 0,
             "running": false
         },
         "_persist": {
