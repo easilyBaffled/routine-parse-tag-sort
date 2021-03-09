@@ -1,11 +1,11 @@
 {
     "stopwatch": {
-        "elapsedTime": 5600,
-        "startedAt": 1615322278661,
+        "elapsedTime": 0,
+        "startedAt": 0,
         "running": false
     },
     "_persist": {
         "version": -1,
-        "rehydrated": true
+        "rehydrated": false
     }
 }
