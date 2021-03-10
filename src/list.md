@@ -5,7 +5,6 @@
         "running": false
     },
     "_persist": {
-        "version": -1,
         "rehydrated": true
     }
 }
