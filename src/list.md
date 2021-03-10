@@ -6,6 +6,6 @@
     },
     "_persist": {
         "version": -1,
-        "rehydrated": false
+        "rehydrated": true
     }
 }
